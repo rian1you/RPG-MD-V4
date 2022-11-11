@@ -30,29 +30,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/62895322458420'
+global.sgc = 'https://chat.whatsapp.com/Dj4VwYYJ736AiWhkhxoaDT'
+global.swa = 'wa.me/6281235667201'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
-global.povo = '-'
-global.pgopay = '0895322458420'
+global.povo = '082332418625'
+global.pgopay = ''
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281229352035'
-global.nomorown = '62895322458420'
-global.namebot = 'NovanBotz'
-global.nameown = 'Novan4you'
+global.nomorbot = '6282332418625'
+global.nomorown = '6281235667201'
+global.namebot = 'Mrrian'
+global.nameown = 'rian4you'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895322458420', 'Novan4you', 'true']
+  ['6281235667201', 'Mrrian', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Novan BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Novan4you* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Novan4you'
-global.umurowner = '22'
+global.nameowner = 'rian4you'
+global.umurowner = '16'
 global.asalowner = 'Indonesia, New York'
-global.nomorowner = 'wa.me/62895322458420'
+global.nomorowner = 'wa.me/6281235667201'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
